@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Api RESTful del Master en Frameworks para JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Robles WEB",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "connect-multiparty": "^2.2.0",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.1"
+  }
+}
